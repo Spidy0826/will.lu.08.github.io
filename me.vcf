@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lu;William;;;
+FN:William Lu
+ORG:Novara.tech / Personal Projects
+TITLE:AI & programmer
+EMAIL;TYPE=INTERNET,PREF:williamlu16888@gmail.com
+TEL;TYPE=CELL,VOICE:+886-903-336-960
+URL:https://will.lu.08.github.io/
+NOTE:Connect for AI, HPC, and web projects.
+END:VCARD
